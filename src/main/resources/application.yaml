@@ -3,5 +3,5 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/elm?serverTimezone=UTC
     username: root
-    password: ssm20020321
+    password: 
     type: com.zaxxer.hikari.HikariDataSource
